@@ -3,6 +3,8 @@
 -
 # "Miles" Javascript exercise for beginner
 
+__Dmitrii says Hello, bitch__
+
 *Javascript exercise*
 
     The result of the calculation is printed in four different
