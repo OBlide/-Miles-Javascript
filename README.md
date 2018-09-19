@@ -1,9 +1,9 @@
 
 # BLYAAAAAAAAAT
--
+
 # "Miles" Javascript exercise for beginner
 
-__Dmitrii says Hello, bitch__
+__Riku is SoCool__
 
 *Javascript exercise*
 
