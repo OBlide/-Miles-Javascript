@@ -1,3 +1,6 @@
+
+# BLYAAAAAAAAAT
+-
 # "Miles" Javascript exercise for beginner
 
 *Javascript exercise*
@@ -9,5 +12,3 @@
     util.format() function.
 
     __Install node__
-
-    ######BLYAT
